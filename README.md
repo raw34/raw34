@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Raw34's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true&theme=tokyonight" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Raw34's github stats" height="180" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="180" />
+</p>
 
 
 <picture>
