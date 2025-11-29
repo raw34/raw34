@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true" alt="Raw34's github stats" style="max-width: 55%; height: auto;" />
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 44%; height: auto;" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true" alt="Raw34's github stats" style="max-width: 55%; height: auto;" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8" alt="Top Languages" style="max-width: 44%; height: auto;" />
 </p>
 
 <p align="center">
