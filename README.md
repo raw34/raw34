@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 
-<picture>
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true" alt="Raw34's github stats" style="width: 54%; max-width: 100%;" />
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&card_width=300" alt="Top Languages" style="width: 45%; max-width: 100%;" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true" alt="Raw34's github stats" style="width: 59%; max-width: 100%;" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&card_width=300" alt="Top Languages" style="width: 40%; max-width: 100%;" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
