@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/raw34/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raw34&layout=compact&show_icons=true&include_all_commits=true=&hide_border=true" alt="Raw34's github stats" /></a> | <a href="https://github.com/raw34/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/raw34/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true" alt="Raw34's github stats" /></a> | <a href="https://github.com/raw34/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
