@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Raw34's github stats" width="49.5%" />
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" width="49.5%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Raw34's github stats" height="200" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" height="200" />
+</div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg" width="100%">
+  </picture>
+</div>
