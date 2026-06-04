@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Randy 👋</h1>
-<p align="center"><em>Not Because They are Easy, but Because They are Hard.</em></p>
 
 ---
 
