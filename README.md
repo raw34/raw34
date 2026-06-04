@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Randy 👋</h1>
-
-🧭 Engineering leader & builder. Most of my time goes into **AI agents and the
-developer tooling/workflows around them** — turning LLMs into systems that do
-real work. Most of it is closed-source.
+🧭 Hi, I'm Randy 👋 — engineering leader & builder. Most of my time goes into
+**AI agents and the developer tooling/workflows around them** — turning LLMs
+into systems that do real work. Most of it is closed-source.
 
 ### 🔭 What I'm into
 - 🤖 AI agents & multi-agent systems
