@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Randy 👋</h1>
 
----
-
 🧭 Engineering leader & builder. Most of my time goes into **AI agents and the
 developer tooling/workflows around them** — turning LLMs into systems that do
 real work. Most of it is closed-source.
@@ -24,12 +22,16 @@ Go backend & infra → now AI/agent systems.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&v=2" alt="Randy's GitHub stats" style="width: 58%;" />
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&card_width=300&v=2" alt="Top Languages" style="width: 38%;" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&v=2" alt="Randy's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&v=2" alt="Top Languages" height="165" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg" style="width: 100%; max-width: 100%;">
-</picture>
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
