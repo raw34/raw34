@@ -16,14 +16,12 @@ Go backend & infra → now AI/agent systems.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&v=2" alt="Randy's GitHub stats" />
-  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&card_width=300&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api?username=raw34&show_icons=true&include_all_commits=true&v=2" alt="Randy's GitHub stats" style="width: 58%; max-width: 100%;" />
+  <img src="https://github-readme-stats-eta-pearl-19.vercel.app/api/top-langs/?username=raw34&layout=compact&langs_count=8&card_width=300&v=2" alt="Top Languages" style="width: 38%; max-width: 100%;" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raw34/raw34/output/github-snake.svg" style="width: 100%; max-width: 100%;">
+</picture>
